@@ -1,0 +1,1 @@
+# shopping_member_curd
